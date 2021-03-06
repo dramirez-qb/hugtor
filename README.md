@@ -5,5 +5,6 @@
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-python main.py # enjoy
+pip install -r requirements.txt
+gunicorn src # enjoy
 ```

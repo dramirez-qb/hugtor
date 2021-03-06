@@ -1,0 +1,15 @@
+AvoidDiskWrites 1
+
+HTTPTunnelPort 0.0.0.0:9080
+SocksPort 0.0.0.0:9050
+ControlPort 127.0.0.1:9051
+
+# Where to send logging messages.  Format is minSeverity[-maxSeverity]
+# (stderr|stdout|syslog|file FILENAME).
+Log notice stdout
+
+Nickname hugtor
+
+CookieAuthentication 0
+
+# %include /etc/tor/torrc.d/
