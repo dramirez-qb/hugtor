@@ -1,4 +1,4 @@
-# hugtor (HugAPI + Tor hidden service)
+# hugtor (HugAPI + Tor hidden service) [![Build Status](https://drone.dxas90.xyz/api/badges/dxas90/hugtor/status.svg)](https://drone.dxas90.xyz/dxas90/hugtor)
 
 ## Install
 
